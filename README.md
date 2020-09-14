@@ -3,7 +3,7 @@
 ![Xylophone Cover](xylophone.png)
 
 ## :clipboard: Features
-Xylophone is a simple Musical application build with **Flutter**.
+**Xylophone** is a simple Musical application build with **Flutter**.
 
 Features available:
 
@@ -15,7 +15,7 @@ Features available:
 ## :gear: Prerequisites
 * Flutter
 * Dart
-* IDE (*one from below*)
+* IDE 
     * Android Studio (*Recommend*)
     * Visual Studio Code
     * Xcode (*Mac*)
